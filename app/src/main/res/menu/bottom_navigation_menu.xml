@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/rulesFragment"
+        android:icon="@drawable/ic_rules"
+        android:title="@string/rules_menu_title" />
+    <item
+        android:id="@+id/playersFragment"
+        android:icon="@drawable/ic_player"
+        android:title="@string/players_menu_title" />
+    <item
+        android:id="@+id/galleryFragment"
+        android:icon="@drawable/ic_gallery"
+        android:title="@string/gallery_menu_title" />
+</menu>

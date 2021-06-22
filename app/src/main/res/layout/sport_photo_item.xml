@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginStart="@dimen/rv_margin"
+    android:layout_marginTop="@dimen/rv_margin"
+    android:layout_marginEnd="@dimen/rv_margin">
+
+    <ImageView
+        android:id="@+id/img_sport_photo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:adjustViewBounds="true" />
+
+</androidx.cardview.widget.CardView>

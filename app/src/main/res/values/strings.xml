@@ -1,0 +1,149 @@
+<resources>
+    <string name="app_name">test-task-abc-team</string>
+    <string name="tv_team_games">Командные игры</string>
+    <string name="btn_football">Футбол</string>
+    <string name="btn_basketball">Баскетбол</string>
+    <string name="rules_menu_title">Правила</string>
+    <string name="players_menu_title">Игроки</string>
+    <string name="gallery_menu_title">Галерея</string>
+    <string name="menu_label">Меню</string>
+
+    <string-array name="football_players">
+        <item>Лионель Месси</item>
+        <item>Криштиану Роналду</item>
+        <item>Неймар</item>
+        <item>Роберт Левандовский</item>
+        <item>Килиан Мбаппе</item>
+        <item>Кевин Де Брёйне</item>
+        <item>Мохаммед Салах</item>
+        <item>Серхио Рамос Гарсия</item>
+        <item>Карим Бензема</item>
+        <item>Зидан Зинедин</item>
+    </string-array>
+
+    <string-array name="football_players_photo">
+        <!--Лионель Месси--> <item>https://pbs.twimg.com/profile_images/468796275832270848/DUfZ0c0U_400x400.jpeg</item>
+        <!--Криштиану Роналду--> <item>https://portugalstartups.com/wp-content/uploads/2015/01/cristiano-ronaldo.jpg</item>
+        <!--Неймар--> <item>https://cdn-st2.rtr-vesti.ru/vh/pictures/bq/167/215/7.jpg</item>
+        <!--Роберт Левандовский--> <item>https://cdn-st1.rtr-vesti.ru/vh/pictures/bq/308/716/0.jpg</item>
+        <!--Килиан Мбаппе--> <item>https://www.kp.ru/sports//wp-content/uploads/2021/05/kilian-mbappe-sbornaya-franczii-portret.jpeg</item> Килиан Мбаппе
+        <!--Кевин Де Брёйне--> <item>https://www.kp.ru/sports/wp-content/uploads/2021/06/numvr7d.jpeg</item>
+        <!--Мохаммед Салах--> <item>https://cdn-st3.rtr-vesti.ru/vh/pictures/bq/162/329/8.jpg</item>
+        <!--Серхио Рамос Гарсия--> <item>https://vitalyatattoo.ru/wp-content/uploads/serhio-ramos-foto_65.jpg</item>
+        <!--Карим Бензема--> <item>https://pbs.twimg.com/profile_images/1400217863789727745/U-LsnNP4_400x400.jpg</item>
+        <!--Зидан Зинедин--><item>https://cdn-st3.rtr-vesti.ru/vh/pictures/bq/119/646/6.jpg</item>
+    </string-array>
+
+    <string-array name="basketball_players">
+        <item>Леброн Джеймс</item>
+        <item>Стефен Карри</item>
+        <item>Кевин Дюрант</item>
+        <item>Джеймс Харден</item>
+        <item>Крис Пол</item>
+        <item>Коби Брайант</item>
+        <item>Кавай Леонард</item>
+        <item>Майкл Джордан</item>
+        <item>Шакил О Нил</item>
+        <item>Расселл Уэстбрук</item>
+    </string-array>
+
+    <string-array name="basketball_players_photo">
+        <!--Леброн Джеймс--><item>https://c8d8q6i8.stackpathcdn.com/wp-content/uploads/2016/03/LeBron-James-Contact-Information.jpg</item>
+        <!--Стефен Карри--><item>https://pbs.twimg.com/profile_images/1127221215893049347/IvTl_B2E_400x400.jpg</item>
+        <!--Кевин Дюрант--><item>https://marriedbiography.com/wp-content/uploads/2017/03/kevin-durant-1.jpg</item>
+        <!--Джеймс Харден--><item>https://pbs.twimg.com/profile_images/1267274512573378561/HTf_B1ZL.jpg</item>
+        <!--Крис Пол--><item>https://c8d8q6i8.stackpathcdn.com/wp-content/uploads/2017/01/Chris-Paul-Contact-Information.jpg</item>
+        <!--Коби Брайант--><item>https://cdn-st1.rtr-vesti.ru/vh/pictures/bq/211/138/4.jpg</item>
+        <!--Кавай Леонард--><item>https://pbs.twimg.com/profile_images/1294133386575896581/IW6xDGPb_400x400.jpg</item>
+        <!--Майкл Джордан--><item>https://pbs.twimg.com/profile_images/3334517201/93c3c52e87ff4d5c989cd2bf64107b4a_400x400.jpeg</item>
+        <!--Шакил О'Нил--><item>https://aforisimo.ru/autors/%D0%A8%D0%B0%D0%BA%D0%B8%D0%BB%20%D0%9E%E2%80%99%D0%9D%D0%B8%D0%BB.jpg</item>
+        <!--Расселл Уэстбрук--><item>https://pbs.twimg.com/profile_images/1336050354400731137/oGR-kCGE_400x400.jpg</item>
+    </string-array>
+
+    <string-array name="football_photos">
+        <item>https://cdn.livesport.ru/l/tips/football/2020/03/31/when_will_football_come_back/picture.jpg?1585129940</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Ra%C3%BAl_Jim%C3%A9nez_DEP-ATM_045_1200.jpg/350px-Ra%C3%BAl_Jim%C3%A9nez_DEP-ATM_045_1200.jpg</item>
+        <item>https://cdnimg.rg.ru/img/content/166/05/34/iStock-916411616_d_850.jpg</item>
+        <item>https://icdn.lenta.ru/images/2018/04/23/15/20180423150648546/pic_472b96293dcc471d7faf722bcda5940f.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/5/52/Fulham_on_the_attack.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/ST_vs_LOU_-_21.jpg/1200px-ST_vs_LOU_-_21.jpg</item>
+        <item>https://peopletalk.ru/wp-content/uploads/2018/11/gettyimages-146444325-640x411.jpg</item>
+        <item>https://pbs.twimg.com/media/DeISE8yW0AAtsbq.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/d/d0/Attilagol.jpg</item>
+        <item>https://dynamo.kiev.ua/media/posts/2015/11/17/slov_ukr4.jpg</item>
+    </string-array>
+
+    <string-array name="basketball_photos">
+        <item>https://s-cdn.sportbox.ru/images/styles/upload/fp_fotos/55/5d/d22223ab41138ace8519c8f8e0a5151c5d20a3c238f46829856514.jpg</item>
+        <item>https://img.redbull.com/images/q_auto,f_auto/redbullcom/2013/10/03/1331614018934_2/%D1%81%D1%82%D1%80%D0%B8%D1%82%D0%B1%D0%BE%D0%BB-%D0%B8-%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB-%E2%80%94-%D0%B2-%D1%87%D0%B5%D0%BC-%D1%80%D0%B0%D0%B7%D0%BD%D0%B8%D1%86%D0%B0.jpg</item>
+        <item>https://imgresizer.eurosport.com/unsafe/1280x960/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/2015/03/28/1445607-30908983-2560-1440.jpg</item>
+        <item>https://s5o.ru/storage/simple/ru/edt/d8/28/d9/8f/ruef2afa4f8a1.jpg</item>
+        <item>https://forshmag.me/wp-content/uploads/2021/04/basketball.jpg</item>
+        <item>https://vse-kursy.com/uploads/posts/2019-09/1568914522_basketball-3653674_1280.jpg</item>
+        <item>https://avatars.mds.yandex.net/get-kinopoisk-post-img/2268018/a949deb7f8ce24ac93b71e39e7efaa7d/960</item>
+        <item>https://img.championat.com/s/735x490/news/big/v/y/basketbolnyj-trener-umer-vo-vremya-matcha-v-sankt-peterburge_16169487951324749749.jpg</item>
+        <item>https://retina.sportmail.ru/prev780x440/pic/3e/0c/g40611604_34ead6e4b06561f7f9183d5ec372b4ee.jpg</item>
+        <item>https://blog.decathlon.ru/uploads/post703/8496987_098.jpg[-1_-1xoxar].jpg</item>
+    </string-array>
+    
+    <string name="basketball_rules">
+        Баскетбол является технически простой игрой при игре среди новичков и технически сложной игрой у любителей и профессионалов.
+        \n\nТак, для начала игры в баскетбол есть ряд правил, которые образуют базис данного вида спорта.
+        \n\nОт их соблюдения зависит царящая на площадке атмосфера и эмоциональное состояние игроков.
+        Стандартный игровой матч состоит из 4-х четвертей, каждая из которых длится 10 минут «чистого» времени.
+        \n\nЭто значит, что остановки в игре приводят к остановке игрового времени.
+        \n\nМежду первой и второй, а также третьей и четвертой четвертью перерыв составляет 2 минуты. Между второй и третьей 15 минут.
+        \n\nЗнать основные правила баскетбола нужно всем. Перечислим самые основные из них:
+        \n\n1. Мяч необходимо стучать об пол одновременно одной рукой.
+        \n\n2. Баскетбольный мяч нельзя ударять кулаком и тыльной стороной руки.
+        \n\n3. Запрещается противостоять игроку команды соперника, используя отталкивающие, удерживающие и атакующие движения руками.
+        \n\n4. Нельзя бегать с мячом в руках и нельзя играть за пределами игровой площадки.
+        \n\nДанный минимальный набор правил обязан знать каждый игрок, который выходит на игровую площадку.
+    </string>
+
+    <string name="football_rules">
+        Главная цель футбола – забить больше голов, чем соперник, за 90 с лишним минут матча.
+        Встреча поделена на два тайма, каждый из которых длится 45 минут.
+        Перерыв составляет 15 минут.
+        Если речь идёт о кубковых матчах на выбывание, а счёт равный, командам нужно провести на поле ещё полчаса (2 тайма по 15 минут).
+        Если судьба матча не решается и в ходе овертайма, соперники выясняют отношения в серии пенальти.
+
+        \n\nПенальти – это прямой удар по воротам с 11 метров. В серии пенальти выбираются по 5 бьющих.
+        Другие футболисты тоже могут принять участие в «лотерее», если после 5-ти ударов счёт будет равным.
+
+        \n\nВ стартовых составах команд числятся по 11 футболистов.
+        Один из них – вратарь, остальные игроки являются полевыми (защитники, полузащитники и нападающие).
+        Футбольные матчи проходят на травянистом покрытии, также проводятся встречи на искуственном покрытии.
+        Примерные размеры поля – 100 на 60 метров.
+
+        \n\nЭкипировка противоборствующих команд должна отличаться, дабы не посеять путаницу.
+        В первую очередь, речь идёт о цветовой гамме.
+        Экипировка футболиста подразумевает под собой бутсы, гетры, щитки, шорты, футболку.
+        Вратарь носит специальные перчатки, которыми он парирует удары соперников с минимальным риском травмировать руки.
+
+        \n\nСудья засчитывает гол лишь в том случае, если мяч полностью пересёк линию ворот.
+        «Распечатать» ворота противника можно любой частью тела, кроме рук.
+
+        \n\nПри совершении нарушений, рефери вправе показать игроку жёлтую или даже красную карточку.
+        Второй «горчичник» автоматически превращается в удаление.
+        Удалённого футболиста заменить нельзя.
+        Если в одной из команд насчитывается сразу 5 удалённых, то ей засчитывается техническое поражение со счётом 0:3.
+        При неявке команды на игру ей тоже засчитывется техническое поражение.
+
+        \n\nЕсли мяч уходит за боковую линию назначается аут.
+        Аут вбрасывается обеими руками из-за головы.
+        Если мяч уходит за лицевую от футболиста защищающейся команды, то назначается угловой (корнер).
+        Угловой в отличие от аута разыгрывается исключительно ногами.
+
+        \n\nПри штрафном ударе расстояние от мяча до «стенки» должно составлять минимум 9 метров и 12 сантиметров.
+        Также существует, так называемый, свободный удар,
+        который назначается после нарушения правил со стороны вратаря и пробивается из пределов чужой штрафной.
+        Кипер не имеет права брать мяч в руки после акцентированного паса в исполнении партнёра по команде.
+
+        \n\nОсобый акцент стоит сделать на трактовке офсайда (положение вне игры).
+        Офсайдом обозначается ситуация, при которой футболист атакующей команды
+        в момент начала паса другого футболиста атакующей команды
+        находится ближе к линии ворот, чем мяч и предпоследний игрок противника, включая голкипера.
+        На своей половине поля попасть в офсайд нельзя.
+    </string>
+</resources>

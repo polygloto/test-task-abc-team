@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation_graph"
+    app:startDestination="@id/menuFragment">
+    <fragment
+        android:id="@+id/menuFragment"
+        android:name="com.mikhailovalx.test_task_abc_team.fragments.MenuFragment"
+        android:label="@string/menu_label"
+        tools:layout="@layout/fragment_menu" />
+    <fragment
+        android:id="@+id/rulesFragment"
+        android:name="com.mikhailovalx.test_task_abc_team.fragments.RulesFragment"
+        android:label="@string/rules_menu_title"
+        tools:layout="@layout/fragment_rules" >
+        <argument
+            android:name="nameOfGame"
+            app:argType="string" />
+    </fragment>
+    <fragment
+        android:id="@+id/playersFragment"
+        android:name="com.mikhailovalx.test_task_abc_team.fragments.PlayersFragment"
+        android:label="@string/players_menu_title"
+        tools:layout="@layout/fragment_players" >
+        <argument
+            android:name="nameOfGame"
+            app:argType="string" />
+    </fragment>
+    <fragment
+        android:id="@+id/galleryFragment"
+        android:name="com.mikhailovalx.test_task_abc_team.fragments.GalleryFragment"
+        android:label="@string/gallery_menu_title"
+        tools:layout="@layout/fragment_gallery" >
+        <argument
+            android:name="nameOfGame"
+            app:argType="string" />
+    </fragment>
+</navigation>
